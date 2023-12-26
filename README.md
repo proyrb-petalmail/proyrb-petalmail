@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @proyrb-petalmail
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-proyrb-petalmail/proyrb-petalmail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 你好，你可以称呼我为**ProYRB**。
+- 👀 我目前是微电子科学与工程专业的一位本科生。
+- 🌱 我做这个账号首要任务还是上传我个人的学习成果，并了解学习相关知识。
+- 💞️ 如果有意向一同学习交流可以通过下面这个电子邮箱联络我。
+- 📫 proyrb@petalmail.com
